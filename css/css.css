@@ -152,10 +152,16 @@
 
 .groupies {
   width:30%;
-  margin-left: 5%;
   margin-top: 5%;
 }
 
+.edge {
+  margin-left: 5%;
+}
+
+.edge2 {
+  margin-right:5%;
+}
 .william {  
   margin-top: 1em;
   width: 100%;
