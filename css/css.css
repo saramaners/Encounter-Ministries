@@ -1,0 +1,209 @@
+.big {
+  max-height:40px;
+}
+
+#logo {
+  max-width: 80%;
+  margin-right: 25em;
+}
+
+#navbar {
+  background-color:#fff;  
+}
+
+.map {
+  margin-left:5%;
+  max-width:90%;
+}
+
+.little {
+  max-width: 20em;  
+}
+
+.carousel-control-next {
+  background-color: #676364; 
+  width: 3em;
+}
+
+.carousel-control-prev {
+  background-color: #676364;
+  width: 3em;
+}
+
+.carousel {
+  max-width: 100%;
+}
+
+
+
+.mission {
+  margin-right:auto;
+  margin-left:auto;  
+  *::-ms-backdrop, .carousel-inner > .item > img { height:433px; }
+}
+
+#series {   
+  margin-left:auto;
+  margin-right:auto;
+  *::-ms-backdrop, .carousel-inner > .item > img { height:433px; }
+}
+
+#poster {
+  max-width: 33%;
+  align-content:center;  
+  *::-ms-backdrop, .carousel-inner > .item > img { height:433px; }
+}
+
+.wednesday {
+  background-color:#fff;  
+  margin-left:auto;
+  margin-right:auto;
+  height: 433px;
+}
+
+.wednesday h1, .wednesday p {
+  margin-top: 2em;
+}
+
+.jumbotron {
+  background-color: #fff;  
+  color: #b8b342;
+  height: 150px;
+  margin-bottom: 100px;
+}
+
+#postertron {
+  background-color: #fff;
+  color:red;
+}
+
+.collapse {
+  width:100%;
+}
+
+#test {
+  text-decoration: none;
+  color: #4977a6;
+  font-family: revalia;
+}
+
+#test:hover {
+  text-decoration: none;  
+  color: #ee4b23;
+}
+
+#test:visited {
+  text-decoration: none;  
+}
+
+#test1 {
+  text-decoration: none;
+  color: #ee4b23;  
+  font-family: revalia;
+}
+
+#test1:hover {
+  text-decoration: none;  
+  color: #4977a6;
+}
+
+#test1:visited {
+  text-decoration: none;  
+}
+
+#test2 {
+  text-decoration: none;
+  color: #b8b342;  
+  font-family: revalia;
+}
+
+#test2:hover {
+  text-decoration: none;  
+  color: #4977a6;
+}
+
+#test2:visited {
+  text-decoration: none;  
+}
+
+.about {
+  max-width: 20em;  
+  margin-left:5%;
+}
+
+.text {
+  margin-left:5%;
+  float: left;  
+}
+
+.you { 
+  margin: 5%;
+  background-color:#4977a6;
+  color: #fff;
+  width: 25em;
+}
+
+.card-img-top {
+  height:12.5em;
+  margin-left:2.6em;
+  margin-right: 2%;
+  margin-top: 1em;
+}
+
+.william {  
+  margin-top: 1em;
+  width: 13em;
+}
+
+.morgan {
+  width: 13em;
+}
+
+footer {
+  border: 2px solid #676364;
+  background-color: #fff; 
+  color: #000;
+}
+
+.bigtoe {
+  margin-left:37.5%;
+  max-height: 18%;  
+  max-width: 25%;
+  margin-top: -1em;
+  margin-bottom: -5em;
+}
+
+.foot {
+  color: #676364;
+}
+
+.foot:hover {
+  color: black;
+}
+
+.sock {
+  color: #676364;
+  margin: auto;  
+}
+
+.sock:hover {
+  color: #000;
+}
+
+.shoe {
+  margin-top: 3em;
+}
+
+.whoo {
+  background-color: #4977a6;
+}
+
+.howboutdat {
+  float:right;
+  margin-right:5%;
+  background-color:#4977a6;
+  color:#fff;
+  margin-top:5%;
+  margin-left:5%;
+  margin-bottom:10%;
+}
