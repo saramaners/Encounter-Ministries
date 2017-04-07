@@ -68,6 +68,10 @@
   color: #4977a6;
 }
 
+.span {
+  width: 100%;
+}
+
 .jumbotron {
   background-color: #fff;  
   color: #b8b342;
