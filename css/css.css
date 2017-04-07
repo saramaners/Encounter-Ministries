@@ -55,7 +55,7 @@
 }
 
 .wednesday {
-  background-color:#fff;  
+  background-color:#b8b342;
   margin-left:auto;
   margin-right:auto;
   height: 433px;
@@ -64,6 +64,7 @@
 .wednesday h1, .wednesday h2 {
   margin-top: 1em;
   text-align: center;
+  color: #4977a6;
 }
 
 .jumbotron {
