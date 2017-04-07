@@ -34,7 +34,12 @@
   max-width: 100%;
 }
 
-
+.allaboutdatbass img {
+  display: inline;
+  float: left;
+  width: 30%;
+  margin: 5% 5% 0 5%;
+}
 
 .mission {
   margin-right:auto;
