@@ -35,13 +35,13 @@
 }
 
 .allaboutdatbass img {
-  display: inline;
+  display: inline-block;
   float: left;
   width: 30%;
 }
 
 .allaboutdatbass {
-  margin: 5% 5% 0 5%;
+  margin: 5% auto;
 }
 
 .mission {
