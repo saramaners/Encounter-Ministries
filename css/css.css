@@ -34,7 +34,9 @@
   max-width: 100%;
 }
 
-
+.datbass {
+  border: none;
+}
 
 .mission {
   margin-right:auto;
