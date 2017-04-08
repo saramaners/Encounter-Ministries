@@ -39,6 +39,10 @@
   margin: 0;
 }
 
+.stuff {
+  background-color: pink;
+}
+
 .mission {
   margin-right:auto;
   margin-left:auto;  
