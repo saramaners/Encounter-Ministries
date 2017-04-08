@@ -1,9 +1,10 @@
-.new {
- 
+.squishy {
+ display: block;
+ margin: 0 5em 0 5em;
 }
 
 #top {
-  width: 50%;
+  width: 40%;
   display: block;
  margin: 0 auto;
 }
