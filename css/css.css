@@ -1,7 +1,10 @@
 .new {
   width: 50%;
-  margin: auto;
+  margin: 0 auto;
+  display: block;
 }
+
+
 
 .big {
   max-height:40px;
