@@ -34,8 +34,19 @@
   max-width: 100%;
 }
 
-.datbass {
-  border-style: none;
+.uno {
+  float: left;
+  width: 33%;
+}
+
+.tres {
+  float: right;
+  width: 33%;
+}
+
+.dos {
+  display: inline-block;
+  width: 33%;
 }
 
 .mission {
